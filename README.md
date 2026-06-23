@@ -13,6 +13,16 @@ ESTADO ACTUAL:
 - Visual: Temas neón, carbón, cristal, madera y metal. Scoreboard profesional con tarjetas detalladas.
 - Legal & Privacidad: Nueva sección "Privacy & Open Source" en la pantalla About, diseñada como una tarjeta profesional con política de privacidad "Zero Data Collection" y créditos detallados para librerías Apache 2.0.
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Wardenclyffe00/rubik3d/refs/heads/main/Screenshot_20260623_180310.png" width="300" alt="Img 1"></td>
+    <td><img src="https://raw.githubusercontent.com/Wardenclyffe00/rubik3d/refs/heads/main/Screenshot_20260623_180348.png" width="300" alt="Img 2"></td>
+    <td><img src="https://raw.githubusercontent.com/Wardenclyffe00/rubik3d/refs/heads/main/Screenshot_20260623_180552.png" width="300" alt="Img 3"></td>
+    <td><img src="https://raw.githubusercontent.com/Wardenclyffe00/rubik3d/refs/heads/main/Screenshot_20260623_180447.png" width="300" alt="Img 4"></td>
+    <td><img src="https://raw.githubusercontent.com/Wardenclyffe00/rubik3d/refs/heads/main/Screenshot_20260623_180507.png" width="300" alt="Img 5"></td>
+  </tr>
+</table>
+
 MEJORAS RECIENTES:
 - Privacidad: Confirmación de que la app no recolecta datos, no usa internet y no requiere permisos.
 - UI: Rediseño de la sección de licencias en About, pasando de un link de texto a una tarjeta interactiva profesional.
