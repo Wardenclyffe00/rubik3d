@@ -45,7 +45,10 @@ Rubik3D es un simulador avanzado del cubo de Rubik clásico de 3x3, desarrollado
 <hr/>
 <h3>PRIVACY POLICY</h3>
 Rubik3D does not collect any personal data. It works 100% offline, requires no permissions, and has no internet access. Your progress is stored locally on your device only.
-
+<br/>
+<a href="https://prvcy-wardenclyffe00.carrd.co/" target="_blank">
+  Privacy Policy
+</a> 
 <hr/>
 Para soportar el proyecto:
 <br/>
