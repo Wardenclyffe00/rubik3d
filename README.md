@@ -1,14 +1,8 @@
-<img src="full.png" usemap="#hero-map" style="width:100%; display:block;">
 
-<map name="hero-map">
+<a href="https://wardenclyffe00.carrd.co/">
+  <img src="full.png" style="display:block; width:100%;">
+</a>
 
-  <area shape="rect" coords="900,150,1200,250" href="https://buymeacoffee.com">
-
-  <area shape="rect" coords="900,300,1200,400" href="mailto:tuemail@email.com">
-
-  <area shape="rect" coords="900,450,1200,550" href="https://tuweb.com/privacy">
-
-</map>
 
 
 
