@@ -1,3 +1,17 @@
+<img src="full.png" usemap="#hero-map" style="width:100%; display:block;">
+
+<map name="hero-map">
+
+  <area shape="rect" coords="900,150,1200,250" href="https://buymeacoffee.com">
+
+  <area shape="rect" coords="900,300,1200,400" href="mailto:tuemail@email.com">
+
+  <area shape="rect" coords="900,450,1200,550" href="https://tuweb.com/privacy">
+
+</map>
+
+
+
 Rubik3D es un simulador avanzado del cubo de Rubik clásico de 3x3, desarrollado con tecnología nativa (C++ / OpenGL ES 3.0 / GameActivity) para un máximo rendimiento y fidelidad visual.
 
 <hr/>
